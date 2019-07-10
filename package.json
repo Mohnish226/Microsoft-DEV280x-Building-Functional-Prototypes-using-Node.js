@@ -1,0 +1,19 @@
+{
+  "name": "microsoft-dev280x-building-functional-prototypes-using-node",
+  "version": "1.0.0",
+  "description": "NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohnish226/Microsoft-DEV280x-Building-Functional-Prototypes-using-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohnish226/Microsoft-DEV280x-Building-Functional-Prototypes-using-Node.js/issues"
+  },
+  "homepage": "https://github.com/Mohnish226/Microsoft-DEV280x-Building-Functional-Prototypes-using-Node.js#readme"
+}
